@@ -11,6 +11,18 @@
 		944F5AE829A2B5F9006CE429 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5AE729A2B5F9006CE429 /* ViewController.swift */; };
 		944F5AEA29A2B5FA006CE429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AE929A2B5FA006CE429 /* Assets.xcassets */; };
 		944F5AED29A2B5FA006CE429 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AEB29A2B5FA006CE429 /* Main.storyboard */; };
+		944F5AFF29A2B875006CE429 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF529A2B875006CE429 /* nssl0049.jpg */; };
+		944F5B0029A2B875006CE429 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF629A2B875006CE429 /* nssl0046.jpg */; };
+		944F5B0129A2B875006CE429 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF729A2B875006CE429 /* nssl0091.jpg */; };
+		944F5B0229A2B875006CE429 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF829A2B875006CE429 /* nssl0045.jpg */; };
+		944F5B0329A2B875006CE429 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF929A2B875006CE429 /* nssl0051.jpg */; };
+		944F5B0429A2B875006CE429 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AFA29A2B875006CE429 /* nssl0041.jpg */; };
+		944F5B0529A2B875006CE429 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AFB29A2B875006CE429 /* nssl0042.jpg */; };
+		944F5B0629A2B875006CE429 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AFC29A2B875006CE429 /* nssl0043.jpg */; };
+		944F5B0729A2B875006CE429 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AFD29A2B875006CE429 /* nssl0033.jpg */; };
+		944F5B0829A2B875006CE429 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AFE29A2B875006CE429 /* nssl0034.jpg */; };
+		944F5B0A29A2BAD6006CE429 /* SourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5B0929A2BAD6006CE429 /* SourceViewController.swift */; };
+		944F5B0C29A2BB89006CE429 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5B0B29A2BB89006CE429 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +32,18 @@
 		944F5AE929A2B5FA006CE429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		944F5AEC29A2B5FA006CE429 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		944F5AEE29A2B5FA006CE429 /* StormViewer_Macos.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StormViewer_Macos.entitlements; sourceTree = "<group>"; };
+		944F5AF529A2B875006CE429 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		944F5AF629A2B875006CE429 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		944F5AF729A2B875006CE429 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		944F5AF829A2B875006CE429 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		944F5AF929A2B875006CE429 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		944F5AFA29A2B875006CE429 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		944F5AFB29A2B875006CE429 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		944F5AFC29A2B875006CE429 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		944F5AFD29A2B875006CE429 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		944F5AFE29A2B875006CE429 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		944F5B0929A2BAD6006CE429 /* SourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
+		944F5B0B29A2BB89006CE429 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +80,29 @@
 				944F5AE729A2B5F9006CE429 /* ViewController.swift */,
 				944F5AE929A2B5FA006CE429 /* Assets.xcassets */,
 				944F5AEB29A2B5FA006CE429 /* Main.storyboard */,
+				944F5B0929A2BAD6006CE429 /* SourceViewController.swift */,
+				944F5B0B29A2BB89006CE429 /* DetailViewController.swift */,
 				944F5AEE29A2B5FA006CE429 /* StormViewer_Macos.entitlements */,
+				944F5AF429A2B875006CE429 /* Content */,
 			);
 			path = "StormViewer-Macos";
+			sourceTree = "<group>";
+		};
+		944F5AF429A2B875006CE429 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				944F5AF529A2B875006CE429 /* nssl0049.jpg */,
+				944F5AF629A2B875006CE429 /* nssl0046.jpg */,
+				944F5AF729A2B875006CE429 /* nssl0091.jpg */,
+				944F5AF829A2B875006CE429 /* nssl0045.jpg */,
+				944F5AF929A2B875006CE429 /* nssl0051.jpg */,
+				944F5AFA29A2B875006CE429 /* nssl0041.jpg */,
+				944F5AFB29A2B875006CE429 /* nssl0042.jpg */,
+				944F5AFC29A2B875006CE429 /* nssl0043.jpg */,
+				944F5AFD29A2B875006CE429 /* nssl0033.jpg */,
+				944F5AFE29A2B875006CE429 /* nssl0034.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +163,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				944F5B0629A2B875006CE429 /* nssl0043.jpg in Resources */,
+				944F5B0729A2B875006CE429 /* nssl0033.jpg in Resources */,
+				944F5B0429A2B875006CE429 /* nssl0041.jpg in Resources */,
+				944F5B0129A2B875006CE429 /* nssl0091.jpg in Resources */,
+				944F5B0329A2B875006CE429 /* nssl0051.jpg in Resources */,
 				944F5AEA29A2B5FA006CE429 /* Assets.xcassets in Resources */,
+				944F5B0529A2B875006CE429 /* nssl0042.jpg in Resources */,
+				944F5B0029A2B875006CE429 /* nssl0046.jpg in Resources */,
+				944F5AFF29A2B875006CE429 /* nssl0049.jpg in Resources */,
+				944F5B0229A2B875006CE429 /* nssl0045.jpg in Resources */,
+				944F5B0829A2B875006CE429 /* nssl0034.jpg in Resources */,
 				944F5AED29A2B5FA006CE429 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -133,6 +187,8 @@
 			files = (
 				944F5AE829A2B5F9006CE429 /* ViewController.swift in Sources */,
 				944F5AE629A2B5F9006CE429 /* AppDelegate.swift in Sources */,
+				944F5B0A29A2BAD6006CE429 /* SourceViewController.swift in Sources */,
+				944F5B0C29A2BB89006CE429 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +336,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sadikcoban.StormViewer-Macos";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -305,6 +362,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sadikcoban.StormViewer-Macos";
 				PRODUCT_NAME = "$(TARGET_NAME)";
