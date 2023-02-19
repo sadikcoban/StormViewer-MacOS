@@ -732,7 +732,7 @@
             <objects>
                 <viewController id="ppT-97-MY3" customClass="SourceViewController" customModule="StormViewer_Macos" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" misplaced="YES" id="Sgj-25-wnO">
-                        <rect key="frame" x="0.0" y="0.0" width="250" height="300"/>
+                        <rect key="frame" x="0.0" y="0.0" width="270" height="300"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <scrollView autohidesScrollers="YES" horizontalLineScroll="24" horizontalPageScroll="10" verticalLineScroll="24" verticalPageScroll="10" usesPredominantAxisScrolling="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kBX-uB-FF5">
