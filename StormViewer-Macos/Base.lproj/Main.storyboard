@@ -46,6 +46,9 @@
                                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                                             <font key="font" metaFont="system"/>
                                         </buttonCell>
+                                        <connections>
+                                            <action selector="shareClicked:" target="Oky-zY-oP4" id="DaM-iZ-giv"/>
+                                        </connections>
                                     </button>
                                 </toolbarItem>
                             </allowedToolbarItems>
@@ -59,7 +62,7 @@
                         </connections>
                     </window>
                     <connections>
-                        <outlet property="shareButton" destination="EaU-vc-JMe" id="bzu-dL-qsw"/>
+                        <outlet property="shareBtn" destination="EaU-vc-JMe" id="4KC-ab-O5f"/>
                         <segue destination="Se6-Aa-Kqy" kind="relationship" relationship="window.shadowedContentViewController" id="1wp-0g-fkf"/>
                     </connections>
                 </windowController>

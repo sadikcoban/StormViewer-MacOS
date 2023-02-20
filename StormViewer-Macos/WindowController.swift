@@ -9,12 +9,14 @@ import Cocoa
 
 class WindowController: NSWindowController {
 
-    @IBOutlet weak var shareButton: NSButton!
+
+    @IBOutlet weak var shareBtn: NSButton!
     
     override func windowDidLoad() {
         super.windowDidLoad()
     
-        // Implement this method to handle any initialization after your window controller's window has been loaded from its nib file.
+        shareBtn.sendAction(on: .leftMouseDown)
+
     }
 
 
