@@ -44,6 +44,7 @@ extension SourceViewController: NSTableViewDataSource {
             return nil
         }
         vw.textField?.stringValue = pictures[row]
+        
         return vw
     }
 }

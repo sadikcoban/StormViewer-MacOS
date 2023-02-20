@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		944F5AE629A2B5F9006CE429 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5AE529A2B5F9006CE429 /* AppDelegate.swift */; };
-		944F5AE829A2B5F9006CE429 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5AE729A2B5F9006CE429 /* ViewController.swift */; };
 		944F5AEA29A2B5FA006CE429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AE929A2B5FA006CE429 /* Assets.xcassets */; };
 		944F5AED29A2B5FA006CE429 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AEB29A2B5FA006CE429 /* Main.storyboard */; };
 		944F5AFF29A2B875006CE429 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AF529A2B875006CE429 /* nssl0049.jpg */; };
@@ -28,7 +27,6 @@
 /* Begin PBXFileReference section */
 		944F5AE229A2B5F9006CE429 /* StormViewer-Macos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StormViewer-Macos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		944F5AE529A2B5F9006CE429 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		944F5AE729A2B5F9006CE429 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		944F5AE929A2B5FA006CE429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		944F5AEC29A2B5FA006CE429 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		944F5AEE29A2B5FA006CE429 /* StormViewer_Macos.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StormViewer_Macos.entitlements; sourceTree = "<group>"; };
@@ -77,7 +75,6 @@
 			isa = PBXGroup;
 			children = (
 				944F5AE529A2B5F9006CE429 /* AppDelegate.swift */,
-				944F5AE729A2B5F9006CE429 /* ViewController.swift */,
 				944F5AE929A2B5FA006CE429 /* Assets.xcassets */,
 				944F5AEB29A2B5FA006CE429 /* Main.storyboard */,
 				944F5B0929A2BAD6006CE429 /* SourceViewController.swift */,
@@ -185,7 +182,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				944F5AE829A2B5F9006CE429 /* ViewController.swift in Sources */,
 				944F5AE629A2B5F9006CE429 /* AppDelegate.swift in Sources */,
 				944F5B0A29A2BAD6006CE429 /* SourceViewController.swift in Sources */,
 				944F5B0C29A2BB89006CE429 /* DetailViewController.swift in Sources */,

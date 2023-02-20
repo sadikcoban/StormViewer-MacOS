@@ -11,6 +11,9 @@ A basic image viewer MacOS application written in Swift to demonstrate the basic
 - Cell Reuse
 - Auto Layout
 - NSViewController
+- NSSharingServicePicker
+- NSSplitViewController
+- NSToolbar
 
 
 
