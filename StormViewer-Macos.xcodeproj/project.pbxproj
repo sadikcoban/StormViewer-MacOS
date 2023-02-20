@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9448FA0F29A3DE7B00EBD879 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FA0E29A3DE7B00EBD879 /* ViewController.swift */; };
+		9448FA1129A3ED0500EBD879 /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FA1029A3ED0500EBD879 /* WindowController.swift */; };
 		944F5AE629A2B5F9006CE429 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944F5AE529A2B5F9006CE429 /* AppDelegate.swift */; };
 		944F5AEA29A2B5FA006CE429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AE929A2B5FA006CE429 /* Assets.xcassets */; };
 		944F5AED29A2B5FA006CE429 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 944F5AEB29A2B5FA006CE429 /* Main.storyboard */; };
@@ -25,6 +27,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9448FA0E29A3DE7B00EBD879 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9448FA1029A3ED0500EBD879 /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		944F5AE229A2B5F9006CE429 /* StormViewer-Macos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StormViewer-Macos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		944F5AE529A2B5F9006CE429 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		944F5AE929A2B5FA006CE429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -77,6 +81,8 @@
 				944F5AE529A2B5F9006CE429 /* AppDelegate.swift */,
 				944F5AE929A2B5FA006CE429 /* Assets.xcassets */,
 				944F5AEB29A2B5FA006CE429 /* Main.storyboard */,
+				9448FA1029A3ED0500EBD879 /* WindowController.swift */,
+				9448FA0E29A3DE7B00EBD879 /* ViewController.swift */,
 				944F5B0929A2BAD6006CE429 /* SourceViewController.swift */,
 				944F5B0B29A2BB89006CE429 /* DetailViewController.swift */,
 				944F5AEE29A2B5FA006CE429 /* StormViewer_Macos.entitlements */,
@@ -183,7 +189,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				944F5AE629A2B5F9006CE429 /* AppDelegate.swift in Sources */,
+				9448FA1129A3ED0500EBD879 /* WindowController.swift in Sources */,
 				944F5B0A29A2BAD6006CE429 /* SourceViewController.swift in Sources */,
+				9448FA0F29A3DE7B00EBD879 /* ViewController.swift in Sources */,
 				944F5B0C29A2BB89006CE429 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
